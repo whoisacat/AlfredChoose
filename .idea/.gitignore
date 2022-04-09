@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/modules/app/AlfredChoose.app.iml
+/modules/AlfredChoose.iml
+/assetWizardSettings.xml
+/codeStyles/codeStyleConfig.xml
+/compiler.xml
+/gradle.xml
+/libraries/*
+/misc.xml
+/modules.xml
+/codeStyles/Project.xml
+/vcs.xml
