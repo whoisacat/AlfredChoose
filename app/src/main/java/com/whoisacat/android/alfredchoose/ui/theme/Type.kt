@@ -1,4 +1,4 @@
-package com.whoisacat.alfredchoose.ui.theme
+package com.whoisacat.android.alfredchoose.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.whoisacat.alfredchoose
+package com.whoisacat.android.alfredchoose
 
 import android.os.Bundle
 import android.os.Vibrator
@@ -15,7 +15,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.sp
-import com.whoisacat.alfredchoose.ui.theme.AlfredChooseTheme
+import com.whoisacat.android.alfredchoose.ui.theme.AlfredChooseTheme
 import com.whoisacat.android.alfreddice.ShakeListener
 import kotlin.math.roundToInt
 
